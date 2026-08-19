@@ -1,4 +1,4 @@
-from bank import *
+from week1.bank import *
 
 while True:
 
